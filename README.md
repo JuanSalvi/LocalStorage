@@ -1,9 +1,9 @@
 # ** LocalStorage **
 Manera de restaurar el estado de ejecución. Gracias a JavaScript.
 
-> [Pagina ](https://juansalvi.github.io/LocalStorage/).
+> [Pagina LocalStorage](https://juansalvi.github.io/LocalStorage/).
 
-Gracias ak LocalStorare Guardamos datos sin en el navegador asi configuraciones base del usaurios son grabadas sin necesidad de un Servidor dedicado.
+> Gracias a LocalStorare Guardamos datos sin en el navegador asi configuraciones base del usaurios son grabadas sin necesidad de un Servidor dedicado.
 
 Capturas
 ![image](https://user-images.githubusercontent.com/91103822/191168059-e29b8b2d-cc03-47b3-84a3-b303764cc91b.png)
