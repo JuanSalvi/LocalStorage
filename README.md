@@ -1,4 +1,4 @@
-# LocalStorage 
+# ** LocalStorage **
 Manera de restaurar el estado de ejecución. Gracias a JavaScript.
 
 > [Pagina ](https://juansalvi.github.io/LocalStorage/).
